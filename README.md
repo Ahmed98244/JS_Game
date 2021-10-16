@@ -1,2 +1,2 @@
 # JS_Game
- Rock_Paper _App game
+ Rock Paper scissor game
